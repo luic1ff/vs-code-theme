@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # luicifftheme README
 
 ## Working with Markdown
@@ -14,3 +15,6 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vs-code-theme
+>>>>>>> 4d5fb716d3be2f1038eb112fd6fabaff53c1fc07
