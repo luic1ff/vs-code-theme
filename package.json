@@ -1,0 +1,41 @@
+{
+  "name": "luiciff-theme",
+  "displayName": "luiciff theme",
+  "description": "A VS Code theme",
+  "publisher": "luiciff",
+  "version": "0.0.1",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "author": {
+    "name": "luiciff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luic1ff/vs-code-theme"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes",
+    "Other",
+    "Visualization"
+  ],
+  "keywords": [
+    "random",
+    "theme switcher",
+    "theme changer",
+    "luiciff",
+    "theme",
+    "luicifftheme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fluxion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fluxion-color-theme.json"
+      }
+    ]
+  }
+}
