@@ -1,9 +1,9 @@
 {
   "name": "luiciff-theme",
-  "displayName": "luiciff theme",
-  "description": "A VS Code theme",
+  "displayName": "Flux Themes Pack",
+  "description": "",
   "publisher": "luiciff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.95.0"
@@ -27,14 +27,21 @@
     "theme changer",
     "luiciff",
     "theme",
-    "luicifftheme"
+    "luicifftheme",
+    "Flux",
+    "FluxTheme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Fluxion",
+        "label": "Neon Flux",
         "uiTheme": "vs-dark",
-        "path": "./themes/Fluxion-color-theme.json"
+        "path": "./themes/neon-flux-color-theme.json"
+      },
+      {
+        "label": "Light Flux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/light-flux-color-theme.json"
       }
     ]
   }
