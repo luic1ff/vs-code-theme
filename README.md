@@ -3,7 +3,7 @@
 
 A visually appealing, minimalist theme for Visual Studio Code that provides a distraction-free and productive coding environment.  
 
-![Theme Preview](https://github.com/luic1ff/vs-code-theme/images/Preview.png)  
+![Theme Preview](https://github.com/luic1ff/vs-code-theme/blob/main/images/Preview.png)  
 
 ## Features  
 
