@@ -1,9 +1,9 @@
 {
   "name": "luiciff-theme",
-  "displayName": "Flux Themes Pack",
+  "displayName": "Luiciff Themes Pack",
   "description": "",
   "publisher": "luiciff",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.95.0"
@@ -27,21 +27,24 @@
     "theme changer",
     "luiciff",
     "theme",
-    "luicifftheme",
-    "Flux",
-    "FluxTheme"
+    "luicifftheme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Neon Flux",
+        "label": "Neon-luiciff",
         "uiTheme": "vs-dark",
-        "path": "./themes/neon-flux-color-theme.json"
+        "path": "./themes/neon-color-theme.json"
       },
       {
-        "label": "Light Flux",
+        "label": "Light-luiciff",
+        "uiTheme": "vs",
+        "path": "./themes/light-color-theme.json"
+      },
+      {
+        "label": "Dark-luiciff",
         "uiTheme": "vs-dark",
-        "path": "./themes/light-flux-color-theme.json"
+        "path": "./themes/dark-color-theme.json"
       }
     ]
   }

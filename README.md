@@ -1,20 +1,45 @@
-<<<<<<< HEAD
-# luicifftheme README
 
-## Working with Markdown
+# Luiciff Theme  
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A visually appealing, minimalist theme for Visual Studio Code that provides a distraction-free and productive coding environment.  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Theme Preview](https://github.com/luic1ff/vs-code-theme/images/Preview.png)  
 
-## For more information
+## Features  
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- **Modern Design**: Clean and minimalistic interface to keep you focused on your code.  
+- **Customizable**: Designed with flexibility in mind for developers who enjoy tweaking themes.  
+- **Syntax Highlighting**: Carefully crafted for readability and ease of use across various languages.  
+- **Lightweight**: Optimized for performance without unnecessary overhead.  
+- **Cross-Platform Support**: Works seamlessly across Windows, macOS, and Linux.  
 
-**Enjoy!**
-=======
-# vs-code-theme
->>>>>>> 4d5fb716d3be2f1038eb112fd6fabaff53c1fc07
+---
+
+## Install  
+
+1. **Go to the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=luiciff.luiciff-theme)**.  
+2. Click on the "Install" button.  
+3. Open Visual Studio Code, and navigate to **File > Preferences > Color Theme**.  
+4. Select one of the available Luiciff themes:  
+   - Luiciff Light  
+   - Luiciff Dark  
+   - Luiciff Neon  
+
+---
+
+## Override this Theme  
+
+To customize this (or any other) theme to suit your personal preferences, refer to the [VS Code Color Theme documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).  
+
+---
+
+
+
+## Notes  
+
+- Whenever possible, use colors from the [Primer Color System](https://primer.style/design).  
+- For legacy users, older versions of the theme are available but may not be frequently updated.  
+
+---  
+
+Enjoy coding with the **Luiciff Theme**! If you have questions or suggestions, feel free to open an issue or submit a Pull Request.  
